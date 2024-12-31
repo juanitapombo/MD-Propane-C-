@@ -1,0 +1,1 @@
+g++ -o program forces2.cpp iniconfig.cpp main_xyz.cpp -stdlib=libc++
